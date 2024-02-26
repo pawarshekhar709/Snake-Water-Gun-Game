@@ -1,5 +1,14 @@
 # Snake, Water, Gun Game
 
+## Author
+- Shekhar Pawar
+
+## Project Overview
+This project implements a simple Snake, Water, Gun (Rock, Paper, Scissors) game in Python. It allows a user to play against the computer, where each player chooses one of the three options: Snake, Water, or Gun. The winner is determined based on the rules of the game.
+
+## Table of Contents
+- [How to Play](#how-to-play)
+- [How to Run](#how-to-run)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
